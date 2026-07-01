@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "org.chipfc"
-version = "0.0.0"
+version = "1.0.0"
 
 val vendor = "ChipFC"
 val copyright = "© 2026 ChipFC"

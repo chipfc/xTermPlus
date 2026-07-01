@@ -1,5 +1,7 @@
 ## 1.0.0 (2026-07-01)
 
+## 1.0.0 (2026-07-01)
+
 ## [0.1.1](https://github.com/chipfc/xTermPlus/compare/v0.1.0...v0.1.1) (2026-07-01)
 
 ## [0.1.0](https://github.com/chipfc/xTermPlus/compare/v0.0.0...v0.1.0) (2026-07-01)
