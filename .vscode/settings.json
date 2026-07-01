@@ -1,0 +1,31 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "cSpell.words": [
+        "beryx",
+        "chipfc",
+        "fazecast",
+        "flatlaf",
+        "formdev",
+        "ftdi",
+        "gradlew",
+        "gson",
+        "jediterm",
+        "jpackage",
+        "jsvg",
+        "logback",
+        "microcontrollers",
+        "miglayout",
+        "modbus",
+        "println",
+        "projectlombok",
+        "roboto",
+        "swingx",
+        "temurin",
+        "uart",
+        "weisj",
+        "xoff"
+    ]
+}

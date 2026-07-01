@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug Application",
+            "request": "launch",
+            "mainClass": "org.chipfc.Main",
+            "projectName": "xTermPlus",
+            "args": ""
+        }
+    ]
+}
